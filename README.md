@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Neeraj Sharma</h1>
+<h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 
 ###
 
-<p align="left">💻 A Passionate Software Developer from India 🇮🇳</p>
+<p align="center">💻 A Passionate Software Developer from India 🇮🇳</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
