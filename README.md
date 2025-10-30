@@ -53,6 +53,13 @@
 
 ---
 
+### 🖼️ Custom Stats SVG  
+<p align="center">
+  <img src="./68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e656572616a736861726d61393335352673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874.svg" alt="Custom GitHub Stats SVG" width="80%" />
+</p>
+
+---
+
 ### 🚀 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsharma9355&layout=compact&theme=tokyonight" width="50%" />
